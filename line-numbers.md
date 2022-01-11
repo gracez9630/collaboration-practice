@@ -8,7 +8,7 @@
 #### 8
 #### 9 GitHub is really awesome
 #### 10
-#### 11 GitHub is amazing
+#### 11 GitHub is pretty amazing
 #### 12
 #### 13
 #### 14
